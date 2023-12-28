@@ -1,0 +1,16 @@
+playwright/tests/user.js
+playwright/playwright-report
+playwright/node_modules
+jest/node_modules
+jest/coverage
+.DS_Store
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
